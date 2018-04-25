@@ -1,8 +1,8 @@
 ## Possible new group name:  
-ADAM: Advanced Data Analytic Methods  
-MIDAS Medical Image Data Analytics Seminar  
-AIM: Advanced Imaging Methods  
-IMATE: Imaging Methods and Analytic Tools Exchange Meeting  
+- ADAM: Advanced Data Analytic Methods  
+- MIDAS Medical Image Data Analytics Seminar  
+- AIM: Advanced Imaging Methods  
+- IMATE: Imaging Methods and Analytic Tools Exchange Meeting  
 
 # Schedule for Group meetings
 
