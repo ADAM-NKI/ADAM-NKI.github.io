@@ -1,4 +1,4 @@
-# Advanced Image Processing & Methods meetings Page
+# Advanced Image Processing & Methods Meetings 
 
 ## Schedule for Group meetings
 
