@@ -1,9 +1,13 @@
-## Welcome to the Advanced Image Processing & Methods meetings Page
+# Welcome to the Advanced Image Processing & Methods meetings Page
 
-# Schedule for Group meetings
+## Schedule for Group meetings
 
-## May
-7th - Babak 
+### May
+- 7th : Babak 
+- 21st : Alex Franco
+
+### June
+- 4th: 
 
 You can use the [editor on GitHub](https://github.com/AIMP-NKI/AIMP-NKI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
