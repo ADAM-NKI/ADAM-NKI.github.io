@@ -1,8 +1,6 @@
-# Advanced Image Processing & Methods Meetings 
+# Schedule for Group meetings
 
-## Schedule for Group meetings
-
-Meetings are always on the 2nd and 4th Monday's of the month 
+Meetings are always on the 2nd and 4th Monday's of the month \\
 @ 3-4PM @ Room N116 / ISD Conference Room 
 
 ### May
