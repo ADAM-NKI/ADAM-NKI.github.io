@@ -5,7 +5,7 @@ Meetings are always on the 2nd and 4th Monday's of the month \\
 
 ### May
 - 14 : Babak 
-- 28 : <span style="color:red">**Memorial Day**<font color="red">  
+- 28 : <span style="color:purple">**Memorial Day**<font color="purple">  
 
 ### June
 - 11: Alex Franco
@@ -34,5 +34,5 @@ Meetings are always on the 2nd and 4th Monday's of the month \\
 
 ### December :
 - 10: **OPEN**
-- 24: <span style="color:red">**Christmas Eve**<font color="red">
+- 24: <span style="color:purple">**Christmas Eve**<font color="purple">
 
