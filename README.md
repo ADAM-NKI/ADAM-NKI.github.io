@@ -1,4 +1,4 @@
-# Welcome to the Advanced Image Processing & Methods meetings Page
+# Advanced Image Processing & Methods meetings Page
 
 ## Schedule for Group meetings
 
@@ -6,47 +6,35 @@ Meetings are always on the 2nd and 4th Monday's of the month
 @ 3-4PM @ Room N116 / ISD Conference Room 
 
 ### May
-- 14th : Babak 
-- 28st : **Memorial Day  
+- 14 : Babak 
+- 28 : **Memorial Day**  
 
 ### June
-- 4th: **OPEN**
-- 18th: **OPEN**
+- 11: Alex Franco
+- 25: **OPEN**
 
 ### July: 
+- 9: **OPEN**
+- 23: **OPEN**
 
-You can use the [editor on GitHub](https://github.com/AIMP-NKI/AIMP-NKI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### August: 
+- 13: **OPEN**
+- 27: **OPEN**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### September:
+- 11: **OPEN**
+- 24: **OPEN**
 
-### Markdown
+### October:
+- 8: **Columbus Day**
+- 22: **OPEN**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### November :
+- 12: **OPEN**
+- 26: **OPEN**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1 - let see what happens here 
-## Header 2
-### Header 3
+### December :
+- 10: **OPEN**
+- 24: **Christmas Eve**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AIMP-NKI/AIMP-NKI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
