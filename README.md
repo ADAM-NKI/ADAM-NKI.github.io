@@ -2,12 +2,18 @@
 
 ## Schedule for Group meetings
 
+Meetings are always on the 2nd and 4th Monday's of the month 
+@ 3-4PM @ Room N116 / ISD Conference Room 
+
 ### May
-- 7th : Babak 
-- 21st : Alex Franco
+- 14th : Babak 
+- 28st : **Memorial Day  
 
 ### June
-- 4th: 
+- 4th: **OPEN**
+- 18th: **OPEN**
+
+### July: 
 
 You can use the [editor on GitHub](https://github.com/AIMP-NKI/AIMP-NKI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
