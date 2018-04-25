@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Advanced Image Processing & Methods meetings Page
+
+# Schedule for Group meetings
+
+## May
+7th - Babak 
 
 You can use the [editor on GitHub](https://github.com/AIMP-NKI/AIMP-NKI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
