@@ -3,11 +3,11 @@
 Meetings are always on the 2nd and 4th Monday's of the month \\
 @ 3-4PM @ Room N116 / ISD Conference Room 
 
-Possible new group name:\\
-ADAM: Advanced Data Analytic Methods
-MIDAS Medical Image Data Analytics Seminar
-AIM: Advanced Imaging Methods
-IMATE: Imaging Methods and Analytic Tools Exchange Meeting
+Possible new group name: \\
+ADAM: Advanced Data Analytic Methods \\
+MIDAS Medical Image Data Analytics Seminar \\
+AIM: Advanced Imaging Methods \\
+IMATE: Imaging Methods and Analytic Tools Exchange Meeting \\
 
 ## 2018
 ### May
