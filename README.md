@@ -5,7 +5,7 @@ Meetings are always on the 2nd and 4th Monday's of the month \\
 
 ### May
 - 14 : Babak 
-- 28 : <style="color:red">**Memorial Day**<font color="red">  
+- 28 : <span style="color:red">**Memorial Day**<font color="red">  
 
 ### June
 - 11: Alex Franco
