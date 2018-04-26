@@ -7,23 +7,23 @@
 # Schedule for Group meetings
 
 Meetings are always on the 2nd and 4th Monday's of the month  
-@ 3-4PM @ Room N116 / ISD Conference Room 
+@ 3-4PM @ Room N116 / ISD Conference Room
 
 
 ## 2018
 ### May
-- 14 : Babak - [paper](babak_2018.pdf)
+- 14 : Babak - [paper](DOCS/babak_2018.pdf)
 - 28 : <span style="color:purple">**Memorial Day**<font color="purple">  
 
 ### June
-- 11: Alex Franco
+- 11: Alex Franco - [Equitable Thresholding and Clustering](DOCS/EquitableThresholdingandClustering.pdf)
 - 25: **OPEN**
 
-### July: 
+### July:
 - 9: **OPEN**
 - 23: **OPEN**
 
-### August: 
+### August:
 - 13: **OPEN**
 - 27: **OPEN**
 
@@ -43,4 +43,3 @@ Meetings are always on the 2nd and 4th Monday's of the month
 ### December :
 - 10: **OPEN**
 - 24: <span style="color:purple">**Christmas Eve**<font color="purple">
-
