@@ -12,7 +12,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ## 2018
 ### May
-- 14 : Babak [paper](babak_2018.pdf)
+- 14 : Babak [paper] - (babak_2018.pdf)
 - 28 : <span style="color:purple">**Memorial Day**<font color="purple">  
 
 ### June
