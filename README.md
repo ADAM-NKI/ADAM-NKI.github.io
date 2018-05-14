@@ -17,7 +17,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### June
 - 11: Alex Franco - [Equitable Thresholding and Clustering](DOCS/EquitableThresholdingandClustering.pdf)
-- 25: **OPEN**
+- 25: Shruti Ray - PsychoPy
 
 ### July:
 - 9: **OPEN**
