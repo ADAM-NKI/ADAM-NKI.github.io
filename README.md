@@ -1,5 +1,5 @@
 
-# Schedule for Group meetings
+# Schedule for Group Meetings
 
 Meetings are always on the 2nd and 4th Monday's of the month  
 @ 3-4PM @ Room N116 / ISD Conference Room
@@ -7,7 +7,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ## 2018
 ### May
-- 14 : Babak - [paper](DOCS/babak_2018.pdf)
+- 14 : Babak - [paper](DOCS/babak_2018.pdf) and [presentation](DOCS/Babak_May2018.pptx)
 - 28 : <span style="color:purple">**Memorial Day**<font color="purple">  
 
 ### June
