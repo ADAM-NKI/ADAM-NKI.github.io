@@ -1,4 +1,6 @@
 
+### [OHBM Conference Courses](https://www.pathlms.com/ohbm/courses)
+
 # Schedule for Group Meetings
 
 Meetings are always on the 2nd and 4th Monday's of the month  
