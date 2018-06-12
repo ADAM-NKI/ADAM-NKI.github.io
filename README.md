@@ -1,5 +1,6 @@
 
-### [OHBM Conference Courses](https://www.pathlms.com/ohbm/courses)
+
+### [Online Tutorials](online_tutorials.md)
 
 # Schedule for Group Meetings
 
@@ -13,11 +14,11 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 28 : <span style="color:purple">**Memorial Day**<font color="purple">  
 
 ### June
-- 11: Alex Franco - [Equitable Thresholding and Clustering](DOCS/EquitableThresholdingandClustering.pdf)
+- 11: Alex Franco - [Equitable Thresholding and Clustering](DOCS/EquitableThresholdingandClustering.pdf) and [presentation](DOCS/ETAC_presentation.pdf)
 - 25: Shruti Ray - PsychoPy
 
 ### July:
-- 9: **OPEN**
+- 9: Ting Xu
 - 23: **OPEN**
 
 ### August:
