@@ -15,7 +15,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### June
 - 11: Alex Franco - [Equitable Thresholding and Clustering](DOCS/EquitableThresholdingandClustering.pdf) and [presentation](DOCS/ETAC_presentation.pdf)
-- 25: Shruti Ray - PsychoPy
+- 25: Shruti Ray - PsychoPy - [ADAM-NKI.github.io/DOCS/EPrime_Codes.pdf]
 
 ### July:
 - 9: Ting Xu
