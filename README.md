@@ -15,10 +15,11 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### June
 - 11: Alex Franco - [Equitable Thresholding and Clustering](DOCS/EquitableThresholdingandClustering.pdf) and [presentation](DOCS/ETAC_presentation.pdf)
-- 25: Shruti Ray - PsychoPy - [Eprime Code](DOCS/EPrime_Codes.pdf)
+- 25: Shruti Ray - Python - Read Eprime Outputs - [Eprime Code](DOCS/EPrime_Codes.pdf) - [Link to Code](https://github.com/shrutiray/eprimedata2feat)
+
 
 ### July:
-- 9: Ting Xu
+- 9: Ting Xu - Orientation and registration in neuroimaging - [Paper](DOCS/garcia2018.pdf)
 - 23: **OPEN**
 
 ### August:
