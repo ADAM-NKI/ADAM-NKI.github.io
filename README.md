@@ -20,10 +20,10 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### July:
 - 9: Ting Xu - Orientation and registration in neuroimaging - [Paper](DOCS/garcia2018.pdf)
-- 23: **OPEN**
+- 23: ** No Meeting**
 
 ### August:
-- 13: **OPEN**
+- 13: Qawi 
 - 27: **OPEN**
 
 ### September:
