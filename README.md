@@ -23,7 +23,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 23: **No Meeting**
 
 ### August:
-- 13: Qawi 
+- 13: Qawi Telesford - Detection of functional brain network reconfiguration during task-driven cognitive states - [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5133201/)
 - 27: **OPEN**
 
 ### September:
