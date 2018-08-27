@@ -35,8 +35,8 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 22: Brian Russ
 
 ### November :
-- 12: **Veterans' Day** Mark Higger - EEG
-- 26: **OPEN - Note: Monday post thankgiving**
+- 12: **Veterans' Day** 
+- 26: Mark Higger - EEG **Note - Monday post Thanksgiving""
 
 
 ### December :
