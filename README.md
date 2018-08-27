@@ -36,7 +36,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### November :
 - 12: **Veterans' Day** 
-- 26: Mark Higger - EEG **Note - Monday post Thanksgiving""
+- 26: Mark Higger - EEG **Note - Monday post Thanksgiving**
 
 
 ### December :
