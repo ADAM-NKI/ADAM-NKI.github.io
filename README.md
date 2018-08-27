@@ -28,7 +28,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### September:
 - 10: Lei Ai - ICC on structural data - and - EEG-fMRI
-- 24: Zhen and Qawi **Note: Pedro Valdez is at NKI **
+- 24: Zhen and Qawi **Note: Pedro Valdez is at NKI**
 
 ### October:
 - 8: **Columbus Day**
@@ -36,7 +36,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### November :
 - 12: **Veterans' Day** Mark Higger - EEG
-- 26: **OPEN - Note: Monday post thankgiving **
+- 26: **OPEN - Note: Monday post thankgiving**
 
 
 ### December :
