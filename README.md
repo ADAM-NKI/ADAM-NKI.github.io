@@ -27,18 +27,18 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 27: Wyllians Vendramini - Super Agers Projects - Multimodal Imaging (PET/MRI)
 
 ### September:
-- 11: **OPEN**
-- 24: **OPEN**
+- 10: Lei Ai - ICC on structural data - and - EEG-fMRI
+- 24: Zhen and Qawi **Note: Pedro Valdez is at NKI **
 
 ### October:
 - 8: **Columbus Day**
-- 22: **OPEN**
+- 22: Brian Russ
 
 ### November :
-- 12: **OPEN**
-- 26: **OPEN**
+- 12: **Veterans' Day** Mark Higger - EEG
+- 26: **OPEN - Note: Monday post thankgiving **
 
 
 ### December :
-- 10: **OPEN**
+- 10: Jessica Cloud
 - 24: <span style="color:purple">**Christmas Eve**<font color="purple">
