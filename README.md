@@ -35,10 +35,64 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 22: Brian Russ
 
 ### November :
-- 12: **Veterans' Day** 
+- 12: **Veteran's Day**
 - 26: Mark Higger - EEG **Note - Monday post Thanksgiving**
 
 
 ### December :
 - 10: Jessica Cloud
 - 24: <span style="color:purple">**Christmas Eve**<font color="purple">
+
+
+## 2019
+### January
+- 14 :
+- 28 :  
+
+### February
+- 11 :
+- 25 :  
+
+### March
+- 11 :
+- 25 :
+
+### April
+- 8 :
+- 22 :
+
+### May
+- 13 :
+- 27 :  **Memorial Day**
+
+### June
+- 10: **OHBM**
+- 24:
+
+
+### July:
+- 8:
+- 22:
+
+HBN ????
+
+### August:
+- 12:
+- 26:
+
+### September:
+- 9:
+- 23:
+
+### October:
+- 14: **Columbus Day**
+- 28:
+
+### November :
+- 11: **Veteran's Day**
+- 25:
+
+
+### December :
+- 9:
+- 23:
