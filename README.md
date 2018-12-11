@@ -11,7 +11,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ## 2019
 ### January
-- 14 :
+- 14 : Wylliams
 - 28 :  
 
 ### February
