@@ -12,22 +12,22 @@ Meetings are always on the 2nd and 4th Monday's of the month
 ## 2019
 ### January
 - 14 : Wylliams
-- 28 :  
+- 28 :  Sang Han
 
 ### February
-- 11 :
-- 25 :  
+- 11 : Zhen
+- 25 : Alex
 
 ### March
-- 11 :
-- 25 :
+- 11 : Qawi
+- 25 : Ryan
 
 ### April
-- 8 :
-- 22 :
+- 8 :Jessica 
+- 22 : Brian
 
 ### May
-- 13 :
+- 13 : Stan
 - 27 :  **Memorial Day**
 
 ### June
