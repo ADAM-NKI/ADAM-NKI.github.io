@@ -12,11 +12,11 @@ Meetings are always on the 2nd and 4th Monday's of the month
 ## 2019
 ### January
 - 14 : Wylliams
-- 28 :  Sang Han
+- 28 : Zhen
 
 ### February
-- 11 : Zhen
-- 25 : Alex
+- 11 : Alex
+- 25 : Sanghan
 
 ### March
 - 11 : Qawi
