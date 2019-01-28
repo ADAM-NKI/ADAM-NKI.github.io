@@ -15,7 +15,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 28 : Zhen
 
 ### February
-- 11 : Alex
+- 11 : 
 - 25 : Sanghan
 
 ### March
