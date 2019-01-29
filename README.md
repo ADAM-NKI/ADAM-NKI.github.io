@@ -16,7 +16,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### February
 - 11 : C-PAC
-- 25 : Sang H†an
+- 25 : Sang Han
 
 ### March
 - 11 : Qawi
