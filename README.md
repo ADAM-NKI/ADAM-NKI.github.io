@@ -20,10 +20,10 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### March
 - 11 : Qawi
-- 25 : Ryan
+- 25 : **Canceled**
 
 ### April
-- 8 :Jessica 
+- 8 : Jessica 
 - 22 : Brian
 
 ### May
@@ -32,7 +32,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### June
 - 10: **OHBM**
-- 24:
+- 24: Ryan
 
 
 ### July:
