@@ -39,7 +39,6 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 8:
 - 22:
 
-HBN ????
 
 ### August:
 - 12:
