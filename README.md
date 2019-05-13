@@ -37,7 +37,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### July:
 - 8:
-- 22:
+- 22: Babak
 
 
 ### August:
