@@ -32,11 +32,11 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### June
 - 10: **OHBM**
-- 24: Ryan
+- 24: Anthony
 
 
 ### July:
-- 8:
+- 8: Ryan
 - 22: Babak
 
 
