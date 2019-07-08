@@ -41,12 +41,12 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 
 ### August:
-- 12:
-- 26:
+- 12: Pratik Kashyap
+- 26: ** Break **
 
 ### September:
-- 9:
-- 23:
+- 9: Alex Franco
+- 23: CPAC
 
 ### October:
 - 14: **Columbus Day**
