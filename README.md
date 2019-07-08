@@ -42,7 +42,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### August:
 - 12: Pratik Kashyap
-- 26: ** Break **
+- 26: **Break**
 
 ### September:
 - 9: Alex Franco
