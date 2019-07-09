@@ -54,7 +54,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### November :
 - 11: **Veteran's Day**
-- 25:
+- 25: Sam Neymotin
 
 
 ### December :
