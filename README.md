@@ -59,7 +59,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### December :
 - 9:
-- 23:
+- 23: **Holiday Week**
 
 
 
