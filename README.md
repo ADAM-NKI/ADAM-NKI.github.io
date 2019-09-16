@@ -47,7 +47,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 ### September:
 - 9: Alex Franco
 - 23: CPAC
-- 30: Mohamad Milad - XX TMS 
+- 30: Mohammed Milad - XX TMS 
 
 ### October:
 - 14: **Columbus Day**
