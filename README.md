@@ -46,12 +46,12 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### September:
 - 9: Alex Franco
-- 23: CPAC
+- 23: **Canceled**
 - 30: Mohammed Milad 
 
 ### October:
 - 14: **Columbus Day**
-- 28:
+- 28: CPAC
 
 ### November :
 - 11: **Veteran's Day**
