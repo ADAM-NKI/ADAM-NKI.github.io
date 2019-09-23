@@ -51,7 +51,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### October:
 - 14: **Columbus Day**
-- 28: CPAC - Maybe
+- 28: 
 
 ### November :
 - 11: **Veteran's Day**
@@ -59,7 +59,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 
 ### December :
-- 9:
+- 9: CPAC
 - 23: **Holiday Week**
 
 
