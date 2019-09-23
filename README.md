@@ -59,7 +59,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 
 ### December :
-- 9: CPAC
+- 9: CPAC - Steve Day
 - 23: **Holiday Week**
 
 
