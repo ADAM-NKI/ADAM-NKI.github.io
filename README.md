@@ -7,6 +7,60 @@
 Meetings are always on the 2nd and 4th Monday's of the month  
 @ 3-4PM @ Room N116 / ISD Conference Room
 
+## 2020
+### January
+- 13 : 
+- 27 : 
+
+### February
+- 10 : 
+- 24 : 
+
+### March
+- 9 : 
+- 13 : 
+
+### April
+- 13 :  
+- 27 : 
+
+### May
+- 11 : 
+- 25 : **Memorial Day** 
+
+### June
+- 8: 
+- 22: 
+
+### July:
+- 13: 
+- 27: 
+
+### August:
+- 10: 
+- 24: 
+
+### September:
+- 14: 
+- 28: 
+
+### October:
+- 12: **Columbus Day**
+- 16: 
+
+### November :
+- 9: *
+- 23: 
+
+
+### December :
+- 14: CPAC - Steve Day
+- 28: **Holiday Week**
+
+
+
+
+
 
 
 ## 2019
