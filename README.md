@@ -9,7 +9,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ## 2020
 ### January
-- 13 : 
+- 13 : Alex Franco - Predictive Eye Estimation Regression (PEER) - [PEER Paper](DOCS/PEER_paper.pdf)
 - 27 : 
 
 ### February
