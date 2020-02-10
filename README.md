@@ -13,15 +13,15 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 27 : Ting - U-Net
 
 ### February
-- 10 : Brian 
-- 24 : Seok-Jun
+- 10 : Brian - NHP PEER
+- 24 : ????
 
 ### March
 - 9 : 
-- 13 : 
+- 23 : Stan - Brain Age
 
 ### April
-- 13 :  
+- 13 : 
 - 27 : 
 
 ### May
