@@ -14,7 +14,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### February
 - 10 : Brian - NHP PEER
-- 24 : ????
+- 24 : Canceled
 
 ### March
 - 9 : 
