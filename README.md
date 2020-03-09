@@ -17,7 +17,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 - 24 : Canceled
 
 ### March
-- 9 : 
+- 9 : Canceled
 - 23 : Stan - Brain Age
 
 ### April
