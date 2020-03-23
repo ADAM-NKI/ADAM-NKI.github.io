@@ -18,7 +18,7 @@ Meetings are always on the 2nd and 4th Monday's of the month
 
 ### March
 - 9 : Canceled
-- 23 : Canceled - NKI COVID-19 town hall. 
+- 23 : Postponed - NKI COVID-19 town hall. 
 
 ### April
 - 13 : Stan - Brain Age
